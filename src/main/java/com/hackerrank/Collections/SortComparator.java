@@ -1,7 +1,6 @@
-package com.hackerrank.collections;
+package com.hackerrank.Collections;
 
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 class Player{
@@ -14,7 +13,7 @@ class Player{
     }
 }
 
-class Checker extends Comparator {
+class Checker extends SortComparator {
 
     public int compare(Player a, Player b){
         if (a.score == b.score){
@@ -25,7 +24,7 @@ class Checker extends Comparator {
     }
 }
 
-public class Comparator {
+public class SortComparator {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -39,10 +38,11 @@ public class Comparator {
         }
         scan.close();
 
+        /* SHould work:
         Arrays.sort(player, checker);
         for(int i = 0; i < player.length; i++){
             System.out.printf("%s %s\n", player[i].name, player[i].score);
-        }
+        }*/
     }
 
 }

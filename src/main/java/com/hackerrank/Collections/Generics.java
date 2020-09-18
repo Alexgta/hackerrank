@@ -1,7 +1,6 @@
-package com.hackerrank.collections;
+package com.hackerrank.Collections;
 
 
-import java.lang.reflect.Array;
 import java.lang.reflect.Method;
 
 class Printer
@@ -14,7 +13,7 @@ class Printer
     }
 }
 
-public class JavaGenerics {
+public class Generics {
 
     public static void main( String args[] ) {
         Printer myPrinter = new Printer();

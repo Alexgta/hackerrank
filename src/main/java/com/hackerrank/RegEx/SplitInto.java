@@ -1,6 +1,4 @@
-package com.hackerrank.regEx;
-
-import java.util.Scanner;
+package com.hackerrank.RegEx;
 
 public class SplitInto {
 
