@@ -1,0 +1,60 @@
+litcode !!!
+
+https://leetcode.com/problems/house-robber/
+https://www.bigocheatsheet.com/
+https://visualgo.net/en/list?slide=1  - for Liza
+https://repl.it/@aneagoie/MergeSortedArrays 
+
+
+
+termoostat: 
+https://victorborisov.livejournal.com/274189.html
+
+https://shop.lenovo.ru/noutbuki/diagonal_15_6/resolution_1920_1080_fhd;2560_1440_2k_wqhd;2560_1600_2k_qhd;3840_2160_4k_uhd/hdd_500gb-999gb;1tb-1_99tb/oc_windows_pro;windows/weight2_1_5kg;1_5-2kg;2-2_5kg/ram_16_gb;32_gb/?max_price=208161 
+https://market.yandex.ru/compareAllValuesIn2Arrays/4KKS9pgQ7cub9trVuYCA9V4qMVkc?hid=91013&id=649417289&id=649657072&id=646928076&id=649404032&id=649720024&id=436497289&id=217193205&id=649582059
+https://www.levels.fyi/comp.html?track=Software%20Engineer 
+
+https://rai-city.ru/bn-sortex/glavnaya - pelettji 
+https://transferwise.com/
+
+jobscan.com - scan and check resume.
+https://www.cakeresume.com/Engineering-resume-samples
+
+
+Resume Cheat Sheet
+white_check_mark Use a pre-designed resume template
+white_check_mark Make the resume fit on 1 page
+white_check_mark Include words from job description
+white_check_mark Include company name you are applying to
+white_check_mark Does your first item on your resume reflect what they are looking for?
+white_check_mark Experience titles demonstrate value
+white_check_mark Do you have an online link?
+white_check_mark Remove the word “I”
+white_check_mark No buzzwords describing how great you are
+white_check_mark Are you using Action words?
+white_check_mark Measure everything in terms of impact, don’t just describe your responsibilities
+white_check_mark Technical Knowledge/Skills should include what they are looking for. Only show years if it is impressive
+white_check_mark Include only sections/items that are impressive: Experience, Projects, Education, Technical Skills
+white_check_mark No typos or bad grammar
+
+Where to find a job:
+    linkedin
+    hackemews
+    weworkremotaly.com
+
+site:linkedin.com procorm
+
+Remote Jobs:
+    https://designmodo.com/jobs/
+    https://www.remotelist.pw/
+    https://remoteonly.io/
+    https://weworkremotely.com/
+    https://remoteok.io/
+
+Others:
+    https://angel.co/jobs
+    Hired (FYI, this is my personal referral link)
+    TripleByte
+    Whitetruffle
+    Zip Recruiter
+    Meetup.com
