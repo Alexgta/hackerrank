@@ -10,13 +10,13 @@ public class Quastion10 {
 
     public static void main(String[] args) {
 
+        List<String> list = Arrays.asList("dog", "over", "good");
 
-        List<String> myList = Arrays.asList("dog", "over", "good");
-        myList.stream().reduce( (x1, x2) -> x1.length() > x2.length() ? x1 : x2).ifPresent(System.out :: println);
-        myList.stream().reduce( (x1, x2) -> x1.length() == 3 ? x1 : x2).ifPresent(System.out :: println);
+        list.stream().reduce( (x1, x2) -> x1.length() > x2.length() ? x1 : x2).ifPresent(System.out :: println);
+        list.stream().reduce( (x1, x2) -> x1.length() == 3 ? x1 : x2).ifPresent(System.out :: println);
 
-        System.out.println(myList.stream().reduce(new String(), (s1, s2) -> s1 + s2.charAt(0), (c1, c2) -> c1 += c2));
-        System.out.println(myList.stream().reduce(new String(), (s1, s2) -> {if (s1.equals("dog")) return s1; return s2;}));
+        System.out.println(list.stream().reduce(new String(), (s1, s2) -> s1 + s2.charAt(0), (c1, c2) -> c1 += c2));
+        System.out.println(list.stream().reduce(new String(), (s1, s2) -> {if (s1.equals("dog")) return s1; return s2;}));
         //System.out.println(myList.stream().reduce(new Character(), (Character s1, s2) -> s1 + s2.charAt(0), (c1, c2) -> c1 += c2));
 
 
@@ -26,8 +26,8 @@ public class Quastion10 {
         System.out.println(intList);
         System.out.println(computedAges);*/
 
-        List<String> quastion34 = Arrays.asList("AAA", "BBB", "CCC");
-        System.out.println(quastion34.stream().findFirst());
+        /*List<String> quastion34 = Arrays.asList("AAA", "BBB", "CCC");
+        System.out.println(quastion34.stream().findFirst());*/
 
     }
 

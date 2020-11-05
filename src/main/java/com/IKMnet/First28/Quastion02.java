@@ -1,9 +1,6 @@
 package com.IKMnet.First28;
 
 public class Quastion02 {
-    private int data;
-    private int data2;
-
     public Quastion02() {
         this(10);
     }
@@ -12,25 +9,30 @@ public class Quastion02 {
         this.data = data;
     }
 
+    //private int data2;
+
     public void display() {
         class Decrementer {
             public void decrement() {
                 data--;
             }
         }
-        Decrementer dec = new Decrementer();
-        dec.decrement();
+        Decrementer d = new Decrementer();
+        d.decrement();
         System.out.println("Data here: " + data);
     }
 
+    private int data;
 
     public static void main(String[] args) {
-        int data = -2;
+        int data = 0;
 
-        Quastion02 quastion02 = new Quastion02();
+        Quastion02 t = new Quastion02();
 
-        System.out.println(quastion02.data);
-        System.out.println(quastion02.data2);
+        t.display();
+
+        System.out.println("data = " + data);
+        //System.out.println(quastion02.data2);
 
     }
 
