@@ -46,7 +46,6 @@ public class FindPath {
         } else {
             System.out.println("Error##46. Should't be. x=" + x + ", y=" + y + ", way=" + way);
         }
-
     }
 
     private void moveDown(int x, int y, int way) {
