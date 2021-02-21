@@ -5,10 +5,7 @@ import java.util.concurrent.atomic.AtomicReference;
 
 public class SyncronizedExample {
 
-
-
     public static void main(String[] args) throws InterruptedException {
-
         AtomicReference<Integer> countB = new AtomicReference<>(0);
         Thread thread3 = new Thread(
             () -> {
