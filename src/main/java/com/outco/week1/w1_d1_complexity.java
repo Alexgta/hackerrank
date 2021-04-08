@@ -9,6 +9,23 @@ public class w1_d1_complexity {
     public static void main(String[] args) {
     }
 
+  /*  Order of Magnitude
+
+  Reduce the following into it's Big-O order of magnitude.
+
+  1. 5 + N                    Answer:   N
+  2. N + N^2                  Answer:   N^2
+  3. 15N + 13N                Answer:   N
+  4. 10000                    Answer:   const
+  5. log(N) + 1               Answer:   log(N)
+  6. log(N) * 3 + 14N + 3     Answer:   log(N)
+  7. Nlog(N) + 3N^2           Answer:   N^2
+  8. N^3 + log(N^4)           Answer:   N^3
+  9. N! + 180000N^2           Answer:   N!
+  10. 15002^N                 Answer:   2^N
+  */
+
+
     /*  Index Of
 
     Given an array of integers and a target value, return the index of the first
@@ -271,6 +288,7 @@ public class w1_d1_complexity {
 
         return result;
     }
+
 
     /*
      * Nth Fibonacci
